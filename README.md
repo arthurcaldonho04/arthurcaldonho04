@@ -127,7 +127,7 @@ Laboratório pessoal de boas práticas em JavaScript puro — gerenciador de tec
 - Acessibilidade (aria-live)
 - Persistência com LocalStorage
 
-[🔗 Repositório](#)
+[🔗 https://github.com/arthurcaldonho04/Study-Manager]
 
 </td>
 
@@ -141,7 +141,7 @@ Landing Page própria, construída como se fosse para um cliente.
 - CSS organizado para escalabilidade
 - Componentes reutilizáveis
 
-[🔗 Repositório](#) · [🚀 Deploy](#)
+[🔗 https://github.com/arthurcaldonho04/landing-page-tech] 
 
 </td>
 
