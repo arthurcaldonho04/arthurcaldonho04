@@ -4,17 +4,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,25:0B1220,50:0F172A,75:2563EB,100:38BDF8&text=SYSTEM%20INITIALIZING...&fontColor=00F5FF&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Arthur%20Caldonho%20%7C%20Frontend%20Developer%20%7C%20Python%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,25:0B1220,50:0F172A,75:2563EB,100:38BDF8&text=SYSTEM%20INITIALIZING...&fontColor=00F5FF&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Arthur%20Caldonho%20%7C%20Front-End%20Developer%20em%20Forma%C3%A7%C3%A3o&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+Booting+JARVIS+Interface...;%3E+Loading+Frontend+Modules...;%3E+Initializing+Python+Environment...;%3E+Studying+React+%26+React+Native...;%3E+Welcome+to+my+GitHub."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+Loading+Frontend+Modules...;%3E+Studying+React+%26+React+Native...;%3E+Building+real+projects%2C+not+just+courses...;%3E+Welcome+to+my+GitHub."/>
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&color=00F5FF"/>
-<img src="https://img.shields.io/github/stars/SEU_USUARIO?affiliations=OWNER&style=for-the-badge&logo=github&color=2563EB"/>
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00F5FF"/>
+<img src="https://img.shields.io/github/followers/arthurcaldonho04?style=for-the-badge&logo=github&color=00F5FF"/>
+<img src="https://img.shields.io/github/stars/arthurcaldonho04?affiliations=OWNER&style=for-the-badge&logo=github&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=arthurcaldonho04&style=for-the-badge&color=00F5FF"/>
 
 </div>
 
@@ -24,21 +24,20 @@
 
 ```yaml
 Name: Arthur Caldonho
-Location: Brazil 🇧🇷
+Location: Espírito Santo, Brazil 🇧🇷
 
 Role:
-  Front-end Developer
+  Front-end Developer (em formação)
 
 Current Focus:
-  - React
-  - React Native
-  - Python
+  - JavaScript (DOM, ES6 Modules, APIs)
   - Node.js
+  - React & React Native
+  - Python
 
 Mission:
-  Build modern applications that combine
-  performance, clean architecture and
-  exceptional user experience.
+  Aprender construindo — cada projeto documentado
+  é uma etapa real do processo, não só teoria.
 
 Status:
   System Online ✔
@@ -51,20 +50,20 @@ Status:
 ```txt
 > Initializing profile...
 
-✔ Information Systems Student
+✔ Estudante de Sistemas de Informação (8º período)
 
-✔ Passionate about technology since childhood
+✔ Foco em desenvolvimento Front-end
 
-✔ Front-end focused
+✔ Experiência prática com JavaScript, HTML, CSS,
+  manipulação de DOM, ES6 Modules e consumo de APIs
 
-✔ Experience with Python, JavaScript,
-  HTML, CSS and Node.js
+✔ Conhecimento intermediário em Python
 
-✔ Constantly learning React &
-  React Native
+✔ Em formação para mobile: React & React Native
 
-✔ Always looking for cleaner code,
-  better UI and better performance.
+✔ Cada projeto neste perfil é construído com
+  regra própria: nada de gambiarra, mesmo em
+  projetos pequenos.
 ```
 
 ---
@@ -73,21 +72,21 @@ Status:
 
 <div align="center">
 
-### Languages
+### Front-end
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs"/>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 
-### Frameworks
+### Back-end & Linguagens
 
-<img src="https://skillicons.dev/icons?i=react,nextjs"/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,mysql"/>
 
-### Database
+### Em formação
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=react"/>
 
-### Tools
+### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </div>
 
@@ -98,19 +97,17 @@ Status:
 ```bash
 Arthur@GitHub:~$
 
-□ Become a React Specialist
+□ Conquistar minha primeira oportunidade como Dev Jr
 
-□ Master React Native
+□ Aprofundar React e React Native
 
-□ Improve Python Back-end
+□ Consolidar back-end com Node.js
 
-□ Build Full Stack Projects
+□ Construir mais projetos reais e documentados
 
-□ Contribute to Open Source
+□ Contribuir com open source
 
-□ Land my first international opportunity
-
-STATUS: █████████░░░ 78%
+STATUS: EM PROGRESSO
 ```
 
 ---
@@ -122,25 +119,29 @@ STATUS: █████████░░░ 78%
 
 <td width="50%">
 
-### 🌐 Front-end Projects
+### 🧠 Study Manager
 
-- Responsive Interfaces
-- Landing Pages
-- Modern UI
-- Dashboards
-- Responsive Design
+Laboratório pessoal de boas práticas em JavaScript puro — gerenciador de tecnologias em estudo.
+
+- Estado centralizado em módulo único
+- Acessibilidade (aria-live)
+- Persistência com LocalStorage
+
+[🔗 Repositório](#)
 
 </td>
 
 <td width="50%">
 
-### 🐍 Python Projects
+### 🌐 Landing Page — Portfólio
 
-- Automation
-- APIs
-- Scripts
-- Data Processing
-- Back-end
+Landing Page própria, construída como se fosse para um cliente.
+
+- Totalmente responsiva
+- CSS organizado para escalabilidade
+- Componentes reutilizáveis
+
+[🔗 Repositório](#) · [🚀 Deploy](#)
 
 </td>
 
@@ -153,9 +154,9 @@ STATUS: █████████░░░ 78%
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arthurcaldonho04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcaldonho04&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -163,7 +164,7 @@ STATUS: █████████░░░ 78%
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=arthurcaldonho04&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -173,17 +174,7 @@ STATUS: █████████░░░ 78%
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arthurcaldonho04&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -193,7 +184,7 @@ STATUS: █████████░░░ 78%
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arthurcaldonho/arthurcaldonho/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/arthurcaldonho04/arthurcaldonho04/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -211,7 +202,7 @@ STATUS: █████████░░░ 78%
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/arthurcaldonho-sketch">
+<a href="https://github.com/arthurcaldonho04">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
